@@ -16,10 +16,8 @@ Amount by Customer Name
 
 
 ### Files Included
-1. Details.csv: This file contains detailed information about individual sales transactions, including product details, customer information, and payment modes.\
-
-2. Orders.csv: This file contains order-level information, including order dates, shipment details, and order quantities.\
-
+1. Details.csv: This file contains detailed information about individual sales transactions, including product details, customer information, and payment modes.
+2. Orders.csv: This file contains order-level information, including order dates, shipment details, and order quantities.
 3. Seasonal Sales Report.pbix: This Power BI file contains the dashboard with all the visualizations created based on the data from the CSV files.
 
 ## Getting Started
@@ -99,8 +97,7 @@ AOV = [Amount]/[Quantity]
 After making the necessary transformations, click Close & Apply to load the transformed data into Power BI.
 
 ## Step 5: Create Visualizations
-### Profit by Month: 
-This visualization shows the monthly profit trends. It helps in identifying seasonal trends and monthly performance.\
+### Profit by Month: This visualization shows the monthly profit trends. It helps in identifying seasonal trends and monthly performance.
 Drag the OrderDate field to the axis of a Stacked Cloumn chart.\
 Drag the Profit field to the values area.\
 Set the aggregation to Sum if not already done.
@@ -150,7 +147,7 @@ Sum of Profit (37K): Indicates the total profit earned.\
 Sum of AOV (121K): Represents the Average Order Value.\
 These key performance indicators (KPIs) give a quick snapshot of the business’s overall health and performance.
 
-### 2. Time Period Selection (Top Right)\
+### 2. Time Period Selection (Top Right)
 Quarter and Year Filters: Allow users to filter the data by specific quarters or view all data, providing flexibility in analyzing trends over different time periods.
 
 ### 3. Amount by State (Bottom Left)
@@ -194,7 +191,7 @@ Bookcases, Saree, Accessories, Tables: Lower profits in descending order.\
 This provides insights into which sub-categories are most profitable, aiding in product line decisions and marketing efforts.
 
 ### Summary
-This dashboard effectively combines various visual elements to provide a holistic view of the e-commerce business’s performance. It leverages bar charts, pie charts, and KPIs to present data in an easily understandable format. By breaking down the data by time, geography, customer, payment method, category, and sub-category, it allows stakeholders to quickly identify trends, strengths, and areas for improvement. This comprehensive approach helps in making informed business decisions to drive growth and efficiency.\
+This dashboard effectively combines various visual elements to provide a holistic view of the e-commerce business’s performance. It leverages bar charts, pie charts, and KPIs to present data in an easily understandable format. By breaking down the data by time, geography, customer, payment method, category, and sub-category, it allows stakeholders to quickly identify trends, strengths, and areas for improvement. This comprehensive approach helps in making informed business decisions to drive growth and efficiency.
 
 The results significantly changes upon selecting particular filters from the slicers. e.g. - Quarter no. & name of the State.
 
