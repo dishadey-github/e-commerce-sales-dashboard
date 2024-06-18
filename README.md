@@ -152,27 +152,25 @@ Step 5: Save and Share the Report
 Click on File > Save As and save your Power BI file with an appropriate name, such as E-Commerce Sales Dashboard.pbix.
 Publish to Power BI Service (Optional):
 
-## Customization
+### Customization
 ### Open Seasonal Sales Report.pbix in Power BI Desktop.
 Use the Fields pane to drag and drop new fields into existing visualizations or create new visualizations.
 Use the Visualizations pane to change the type of charts or add new elements like slicers, filters, and more.
 
-Final Interactive Report for E-Coomerce Sales Dashboard :
+## Final Interactive Report for E-Commerce Sales Dashboard :
 ![image](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/0a39f6d9-c6fc-4983-baa3-4672c59d25a9)
 
-Quarter 1, State - Andrapradesh :
+## Quarter 1, State - Andrapradesh :
 ![Quarter 1, Andrapradesh](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/67c3fb7d-9b0d-46f5-87aa-7c074ba7f850)
 
-
-Quarter 4, State - Karnataka :
+## Quarter 4, State - Karnataka :
 ![Quarter 4, Karnataka](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/c5f88117-a56c-45a3-8689-ccaa57f4cb86)
 
-
-Quarter 2, State - Karnataka :
+## Quarter 2, State - Karnataka :
 ![Quarter 2, Karnataka](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/8c6ef209-2193-459f-b57e-dd12c8ad3b2f)
 
-Quarter 2, State - Kerala :
+## Quarter 2, State - Kerala :
 ![Quarter 2, Kerala](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/61186196-259e-4bff-85e4-1c21e5e59538)
 
-Quarter 3, State - West Bengal :
+## Quarter 3, State - West Bengal :
 ![Quarter 3, West Bengal](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/eaf1f86e-7a28-4c83-9be0-cbf2208d86cc)
