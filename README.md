@@ -27,7 +27,6 @@ Any spreadsheet software (Excel, Google Sheets) to view and understand the CSV f
 
 ## Step 1 : Installation
 ### Clone the repository:
-
 git clone https://github.com/dishadey-github/e-commerce-sales-dashboard.git
 
 ## Step 2 : Open the CSV files:
