@@ -31,15 +31,10 @@ Any spreadsheet software (Excel, Google Sheets) to view and understand the CSV f
 git clone https://github.com/dishadey-github/e-commerce-sales-dashboard.git
 
 ## Step 2 : Open the CSV files:
-### Load Details.csv:
+### Load Details.csv & Orders.csv:
 Click on Home in the top menu.\
 Select Get Data > Text/CSV.\
-Browse to the location of Details.csv and click Open.\
-In the preview window, click Load to import the data.
-
-### Load Orders.csv:
-Repeat the process by clicking Get Data > Text/CSV.\
-Browse to the location of Orders.csv and click Open.\
+Browse to the location of Details.csv, Orders.csv (do this separately) and click Open.\
 In the preview window, click Load to import the data.
 
 ## Step 3 : Open the Power BI dashboard:
