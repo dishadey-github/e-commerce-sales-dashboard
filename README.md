@@ -87,7 +87,9 @@ Click on Home > Merge Queries and select the appropriate columns to merge on.
   Use the Add Column tab to create new custom columns.
 
 #### 5. Add column for Average Order Value
+```
   AOV = [Amount]/[Quantity]
+```
 
 #### 6. Close and Apply:
   After making the necessary transformations, click Close & Apply to load the transformed data into Power BI.
