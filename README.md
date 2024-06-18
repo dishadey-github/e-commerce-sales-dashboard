@@ -160,6 +160,9 @@ Use the Visualizations pane to change the type of charts or add new elements lik
 ## Final Interactive Report for E-Commerce Sales Dashboard :
 ![image](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/0a39f6d9-c6fc-4983-baa3-4672c59d25a9)
 
+## Quarter 1, State - Delhi :
+![Quarter 1, Delhi](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/3460fb20-aadf-43be-aab0-75282a0db7dd)
+
 ## Quarter 1, State - Andrapradesh :
 ![Quarter 1, Andrapradesh](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/67c3fb7d-9b0d-46f5-87aa-7c074ba7f850)
 
