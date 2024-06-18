@@ -3,8 +3,6 @@
 ## E-Commerce Sales Dashboard preview :
 ![image](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/0a39f6d9-c6fc-4983-baa3-4672c59d25a9)
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/ab034c62-d28c-454a-af27-227aa14f3cda/b8405238833b12d06212?bookmarkGuid=31425bc8-7d30-48df-aa73-69b791987dab&bookmarkUsage=1&ctid=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&portalSessionId=21d31427-cc6e-4381-813c-bf517e1b87f3&fromEntryPoint=export
-
 
 ## Overview
 The E-Commerce Sales Dashboard is a comprehensive data visualization project designed to provide insights into various aspects of an e-commerce business. This project uses two CSV files and one Power BI file to create visualizations for the following metrics:
@@ -158,9 +156,6 @@ Publish to Power BI Service (Optional):
 Use the Fields pane to drag and drop new fields into existing visualizations or create new visualizations.
 Use the Visualizations pane to change the type of charts or add new elements like slicers, filters, and more.
 
-## Final Interactive Report for E-Commerce Sales Dashboard :
-![image](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/0a39f6d9-c6fc-4983-baa3-4672c59d25a9)
-
 ## Quarter 1, State - Delhi :
 ![Quarter 1, Delhi](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/3460fb20-aadf-43be-aab0-75282a0db7dd)
 
@@ -178,3 +173,8 @@ Use the Visualizations pane to change the type of charts or add new elements lik
 
 ## Quarter 3, State - West Bengal :
 ![Quarter 3, West Bengal](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/eaf1f86e-7a28-4c83-9be0-cbf2208d86cc)
+
+## Final Interactive Report for E-Commerce Sales Dashboard :
+![image](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/0a39f6d9-c6fc-4983-baa3-4672c59d25a9)
+
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/ab034c62-d28c-454a-af27-227aa14f3cda/b8405238833b12d06212?bookmarkGuid=31425bc8-7d30-48df-aa73-69b791987dab&bookmarkUsage=1&ctid=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&portalSessionId=21d31427-cc6e-4381-813c-bf517e1b87f3&fromEntryPoint=export
