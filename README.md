@@ -45,7 +45,6 @@ Browse to the location of Orders.csv and click Open.
 In the preview window, click Load to import the data.
 
 ## Step 3 : Open the Power BI dashboard:
-
 ### Open Seasonal Sales Report.pbix using Microsoft Power BI Desktop.
 ### Data Explanation
 ### Details.csv
@@ -80,7 +79,7 @@ CustomerName: Name of the customer.
 
 ## Step 4 : Data Transformation and Preparation
 ### 1. Open Power Query Editor:
-Click on Transform Data to open the Power Query Editor.
+Click on Transform Data to open the Power Query Editor. In view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 
 ### 2. Inspect and Clean Data:
 Verify that both datasets (Details and Orders) are loaded correctly.
