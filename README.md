@@ -1,5 +1,7 @@
 # e-commerce-sales-dashboard
 
+## E-Commerce Sales Dashboard preview :
+![image](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/0a39f6d9-c6fc-4983-baa3-4672c59d25a9)
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/ab034c62-d28c-454a-af27-227aa14f3cda/b8405238833b12d06212?bookmarkGuid=31425bc8-7d30-48df-aa73-69b791987dab&bookmarkUsage=1&ctid=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61&portalSessionId=21d31427-cc6e-4381-813c-bf517e1b87f3&fromEntryPoint=export
 
