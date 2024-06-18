@@ -162,7 +162,7 @@ These key performance indicators (KPIs) give a quick snapshot of the business’
 ### Summary
   This dashboard effectively combines various visual elements to provide a holistic view of the e-commerce business’s performance. It leverages bar charts, pie charts, and KPIs to present data in an easily understandable format. By breaking down the data by time, geography, customer, payment method, category, and sub-category, it allows stakeholders to quickly identify trends, strengths, and areas for improvement. This comprehensive approach helps in making informed business decisions to drive growth and efficiency.
 
-The results significantly changes upon selecting particular filters from the slicers. e.g. - Quarter no. & name of the State.
+##### The results significantly changes upon selecting particular filters from the slicers. e.g. - Quarter no. & name of the State.
 
 ## Quarter 1, State - Delhi :
 ![Quarter 1, Delhi](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/3460fb20-aadf-43be-aab0-75282a0db7dd)
