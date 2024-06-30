@@ -183,6 +183,3 @@ These key performance indicators (KPIs) give a quick snapshot of the business’
 
 ## Quarter 3, State - West Bengal :
 ![Quarter 3, West Bengal](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/eaf1f86e-7a28-4c83-9be0-cbf2208d86cc)
-
-## Final Interactive Report for E-Commerce Sales Dashboard :
-![image](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/0a39f6d9-c6fc-4983-baa3-4672c59d25a9)
