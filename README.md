@@ -1,4 +1,4 @@
-# e-commerce-sales-dashboard
+# E-Commerce Sales Report
 
 ## E-Commerce Sales Dashboard preview :
 ![image](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/0a39f6d9-c6fc-4983-baa3-4672c59d25a9)
