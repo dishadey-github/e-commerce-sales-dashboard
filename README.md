@@ -160,9 +160,11 @@ These key performance indicators (KPIs) give a quick snapshot of the business’
 - Other significant customers: Madhav, Madan, Shiva.
 - This helps identify key customers who contribute the most to the business, enabling personalized marketing and loyalty programs.
 
+#### Filters
+- Quarter No.
+- State
 
-
-##### The results significantly changes upon selecting particular filters from the slicers. e.g. - Quarter no. & name of the State.
+# E-Commerce Sales Report (with filters)
 
 ### Quarter 1, State - Delhi :
 ![Quarter 1, Delhi](https://github.com/dishadey-github/e-commerce-sales-dashboard/assets/60807918/3460fb20-aadf-43be-aab0-75282a0db7dd)
